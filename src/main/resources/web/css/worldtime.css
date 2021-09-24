@@ -1,0 +1,26 @@
+div.worldtimerow {
+  height: 50px;
+  position: absolute;
+  top: 0px; left: 0px; right: 0px;
+  z-index:500;
+}
+div.worldtimecontainer {
+  height: 50px;
+  margin:auto;
+  display:flex;
+  justify-content: center;
+}
+div.worldtimeimg {
+  height: 50px;
+  width: 50px;
+  flex: none;
+}
+div.worldtimetext {
+  height: 50px;
+  width: 200px;
+  flex: none;
+  color: yellow;
+  font-family:arial,helvetica,sans-serif;
+  font-weight:bolder;
+  font-size:30px;
+}

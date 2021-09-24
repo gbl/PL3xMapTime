@@ -1,0 +1,8 @@
+name: Pl3xMapTime
+main: de.guntram.paper.pl3xmaptime.TimeExporter
+version: 1.0-SNAPSHOT
+description: "This exports ingame world times to a json file so GUIs can show it"
+api-version: "1.15"
+authors: [Giselbaer]
+softdepend:
+    - Pl3xMap
